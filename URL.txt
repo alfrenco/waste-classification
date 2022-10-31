@@ -1,0 +1,2 @@
+URL Deployment : https://waste-prediction-yosi.herokuapp.com/
+URL Dataset : https://www.kaggle.com/datasets/techsash/waste-classification-data
